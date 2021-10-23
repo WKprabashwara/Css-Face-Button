@@ -1,9 +1,11 @@
 # CSS Face Button
 
-<p align="center"><img src="https://telegra.ph/file/0077e466fff74fd8008b4.png" width="80%"></p>
+# ![GitHub repo size](https://img.shields.io/github/repo-size/WKRPrabashwara/Css-Face-Button?label=Repo%20Size) ![Last Commit](https://img.shields.io/github/last-commit/WKRPrabashwara/Css-Face-Button?color=red&label=Last%20commit&logo=damantha&logoColor=green) ![GitHub](https://img.shields.io/github/license/WKRPrabashwara/Css-Face-Button)
+
+<p align="left"><img src="https://telegra.ph/file/0077e466fff74fd8008b4.png" width="100%"></p>
 
 ## html
-```javascript
+```python
 <!DOCTYPE html>
 <html>
     <head>
